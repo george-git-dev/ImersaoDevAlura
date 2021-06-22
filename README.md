@@ -1,6 +1,6 @@
 # ImersaoDevAlura
  
-Aulas com os professores: Rafaella Ballerini, Guilherme Lima e Paulo Silveira.
+Aula com os professores: Rafaella Ballerini, Guilherme Lima e Paulo Silveira.
 
 Durante a Imersão, tive contato com:
 
